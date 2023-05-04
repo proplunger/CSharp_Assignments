@@ -8,7 +8,7 @@ namespace Assignment7
 {
     internal class Task1
     {
-        static string BASE_PATH = @"C:\Users\Karan.Rautela\Documents";
+        static string BASE_PATH = @"C:\Users\Aryan.Rawat\Documents";
         public static void CreateDirectory() {
             if (!Directory.Exists(BASE_PATH + @"\demo"))
             {
@@ -79,6 +79,20 @@ namespace Assignment7
         public static void DeleteDirectory()
         {
             Directory.Delete(BASE_PATH + @"\demo", true);
+        }
+
+        //DirectoryInfo baseDir = new DirectoryInfo(@"C:\Users\Aryan.Rawat\Desktop\demo");
+        public static void RecursiveDelete(baseDir, true);
+        static void RecursiveDelete(DirectoryInfo baseDir, bool isRootDir)
+        {
+            if (!baseDir.Exists) return;
+            foreach (var dir in baseDir.EnumerateDirectories()) RecursiveDelete(dir, false);
+            foreach (var file in baseDir.GetFiles())
+            {
+                file.IsReadOnly = false;
+                file.Delete();
+            }
+            if (isRootDir) baseDir.Delete();
         }
     }
 }
