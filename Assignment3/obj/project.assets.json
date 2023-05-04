@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karan.Rautela\\source\\repos\\Assignment3\\Assignment3.csproj",
-      "projectName": "Assignment3",
-      "projectPath": "C:\\Users\\Karan.Rautela\\source\\repos\\Assignment3\\Assignment3.csproj",
+      "projectUniqueName": "C:\\Users\\Karan.Rautela\\source\\repos\\C#Assignments\\Assignments\\Assignment1.csproj",
+      "projectName": "Assignment1",
+      "projectPath": "C:\\Users\\Karan.Rautela\\source\\repos\\C#Assignments\\Assignments\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\Karan.Rautela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karan.Rautela\\source\\repos\\Assignment3\\obj\\",
+      "outputPath": "C:\\Users\\Karan.Rautela\\source\\repos\\C#Assignments\\Assignments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karan.Rautela\\AppData\\Roaming\\NuGet\\NuGet.Config",
