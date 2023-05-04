@@ -1,0 +1,15 @@
+C:\Users\Karan.Rautela\source\repos\Assignment6\bin\Debug\net6.0\Assignment5.exe
+C:\Users\Karan.Rautela\source\repos\Assignment6\bin\Debug\net6.0\Assignment5.deps.json
+C:\Users\Karan.Rautela\source\repos\Assignment6\bin\Debug\net6.0\Assignment5.runtimeconfig.json
+C:\Users\Karan.Rautela\source\repos\Assignment6\bin\Debug\net6.0\Assignment5.dll
+C:\Users\Karan.Rautela\source\repos\Assignment6\bin\Debug\net6.0\Assignment5.pdb
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.csproj.AssemblyReference.cache
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.dll
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\refint\Assignment5.dll
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.pdb
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\Assignment5.genruntimeconfig.cache
+C:\Users\Karan.Rautela\source\repos\Assignment6\obj\Debug\net6.0\ref\Assignment5.dll
